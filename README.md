@@ -1,9 +1,9 @@
-# Massachusets-Schools-EDA
+# Massachusetts-Schools-EDA
 
-The goal for this project was to perform exploratory data analysis on public schools in Massachusets. 
+The goal for this project was to perform exploratory data analysis on public schools in Massachusetts. 
 
-/Code contains all R code files for analysis
+/Code contains all R code files for analysis, and graphing
 
-/Data contains the relevant dataset of hurricanes
+/Data contains the relevant dataset
 
-/Report contains a PDF file detailing the results of the analysis, ultimately concluding that hurricanes are increasing in both frequency and strength over time
+/Report contains a whitepaper detailing the results of the analysis, including SAT scores by school, and teacher salary visualization 
